@@ -7,5 +7,9 @@
 -  &nbsp; Graduated with an Integrated Masters in Software Systems.  
 
 ## Languages:
-C++, Python, Go, ReactJs, Bash
+C++, Python, Go, ReactJS   
+
+
+### And my Github profile has a lot of..
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ii-varsha-ii&hide_progress=true)
 
