@@ -5,7 +5,6 @@
 -  &nbsp; My name is **Varsha Natarajan**.   
 -  &nbsp; Currently pursuing my MS in Computer Science at University of Colorado Boulder.   
 -  &nbsp; Graduated with an Integrated Masters in Software Systems.
--  &nbsp; Have around 2 years of experience working in the software industry.
 
 ## Languages:
 C++, Python, Go, ReactJS   
